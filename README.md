@@ -20,8 +20,6 @@
 <hr>
 <br>
 
-menna-zakaria-476220239
-
 ## 👉 Ho to reach me 
 <p align="center">
 <a href="https://www.linkedin.com/in/nada-kenawy-63a274244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nada-kenawy-63a274244/" height="80" width="60"    /      ></a>      
