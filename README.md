@@ -5,9 +5,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Flutter+Developer;"></a>
 </p>
 
-- 🔭 I am a Student at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
-
-- 🌱 I’m currently learning **Computer Science**
+- 🔭 I graduated from the Faculty of Computers & Informations, Suez Canal University (http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 👨‍💻 I am a **Flutter Developer.**
 
